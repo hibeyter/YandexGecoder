@@ -5,7 +5,7 @@ const xlsx = require("xlsx");
 
 
 const { apikey } = {
-    apikey: 'YOUR APİ KEY',
+    apikey: 'YOUR API KEY',
 };
 
 
